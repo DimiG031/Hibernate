@@ -41,6 +41,9 @@ This project is a **Java application** that utilizes **Hibernate** for managing 
 - **Validation**: Implement input validation to ensure data integrity.
 - **Logging**: Add logging functionality for better debugging and monitoring.
 
+---
+✨ **Author:** [Goran Dimitrijevic Dimi](https://dimig031.github.io/)
+
 ## License
 This project is open-source under the [MIT License](LICENSE).
 
